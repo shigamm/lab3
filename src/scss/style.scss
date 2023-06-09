@@ -1,0 +1,55 @@
+@import "~bootstrap/scss/bootstrap";
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+}
+.card {
+    height: 35em;
+    img {
+        height: 25em;
+    }
+}
+
+
+.row {
+    margin: auto;
+    justify-content: center;
+}
+footer{
+    border-top: 1px solid white;
+    margin-top: 45px;
+}
+.card-img-top{
+    object-fit: cover;
+    height: 100%;
+}
+.myclass{
+    margin: 0 auto;
+}
+
+.cl{
+    margin: 20px 0;
+}
+
+.centered{
+    text-align: center;
+}
+.last-logo{
+    width: 50px;
+}
+
+.last-line{
+    border: 1px solid black;
+    height: 1px;
+}
+.last-logo{
+    height:50px;
+}
+.plank {
+    height: 30px;
+    width: 50px;
+    margin-right: 10px;
+}
